@@ -3,3 +3,4 @@ dist
 public/ffmpeg
 .env
 .claude
+.vercel
